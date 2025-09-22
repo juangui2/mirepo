@@ -1,6 +1,6 @@
-Manzana
 Banana
-Naranja
+Durazno
 Fresa
 Mango
-Durazno
+Manzana
+Naranja
